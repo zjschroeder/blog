@@ -1,0 +1,24 @@
+---
+title: "Goals and Aims"
+description: |
+  A short description of the post.
+author:
+  - name: Zach Schroeder
+    url: {}
+date: 02-24-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(dev = "ragg_png")
+```
+
+Here's a really cool plot
+
+```{r}
+
+```
+
